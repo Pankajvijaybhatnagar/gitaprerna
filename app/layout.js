@@ -17,7 +17,7 @@ const crimson = Crimson_Pro({
 
 export const metadata = {
   title: 'Gita Prerna - भगवद् गीता की प्रेरणा',
-  description: 'Experience the timeless wisdom of Bhagavad Gita in Hindi and English',
+  description: 'Experience the timeless wisdom of bhagwad Gita in Hindi and English',
 }
 
 export default function RootLayout({ children }) {

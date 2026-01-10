@@ -13,12 +13,12 @@ export default function LandingPage() {
     hero: {
       title: "भगवद गीता का ज्ञान",
       subtitle: "Empowering Communities Through Spiritual Wisdom",
-      description: "Join us in spreading the timeless teachings of the Bhagavad Gita across India",
+      description: "Join us in spreading the timeless teachings of the bhagwad Gita across India",
       ctaText: "Support Our Mission"
     },
     about: {
       title: "About Our Mission",
-      description: "We are dedicated to serving our nation through spiritual guidance, educational programs, and spreading the sacred knowledge of Bhagavad Gita.",
+      description: "We are dedicated to serving our nation through spiritual guidance, educational programs, and spreading the sacred knowledge of bhagwad Gita.",
       stats: [
         { number: "10,000+", label: "Lives Touched" },
         { number: "50+", label: "Cities" },
@@ -32,7 +32,7 @@ export default function LandingPage() {
         {
           icon: "📚",
           title: "Gita Classes",
-          description: "Regular classes and workshops on Bhagavad Gita teachings"
+          description: "Regular classes and workshops on bhagwad Gita teachings"
         },
         {
           icon: "🎓",
@@ -47,7 +47,7 @@ export default function LandingPage() {
         {
           icon: "📖",
           title: "Publications",
-          description: "Free distribution of Bhagavad Gita and spiritual literature"
+          description: "Free distribution of bhagwad Gita and spiritual literature"
         },
         {
           icon: "🎭",
@@ -63,7 +63,7 @@ export default function LandingPage() {
     },
     donation: {
       title: "Support Our Cause",
-      description: "Your contribution helps us spread the sacred knowledge of Bhagavad Gita",
+      description: "Your contribution helps us spread the sacred knowledge of bhagwad Gita",
       qrCode: "/images/donation-qr.png",
       upiId: "gitafoundation@upi",
       amounts: [500, 1000, 2500, 5000]
@@ -94,7 +94,7 @@ export default function LandingPage() {
     }
   };
 
-  // Bhagavad Gita Chapters Data
+  // bhagwad Gita Chapters Data
   const chapters = [
     {
       id: 1,
@@ -590,7 +590,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Bhagavad Gita Chapters Section */}
+      {/* bhagwad Gita Chapters Section */}
       <section id="chapters" style={{
         padding: '6rem 2rem',
         background: 'linear-gradient(180deg, white 0%, #fdf6e3 100%)'
@@ -629,7 +629,7 @@ export default function LandingPage() {
               maxWidth: '800px',
               margin: '0 auto'
             }}>
-              Explore the 18 chapters of timeless wisdom from the Bhagavad Gita
+              Explore the 18 chapters of timeless wisdom from the bhagwad Gita
             </p>
           </div>
 
@@ -1435,7 +1435,7 @@ export default function LandingPage() {
                 lineHeight: '1.8',
                 marginBottom: '1.5rem'
               }}>
-                Spreading the sacred wisdom of Bhagavad Gita for spiritual enlightenment.
+                Spreading the sacred wisdom of bhagwad Gita for spiritual enlightenment.
               </p>
               <div style={{
                 display: 'flex',

@@ -48,7 +48,7 @@ export default function ChaptersPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            18 Chapters of Bhagavad Gita
+            18 Chapters of bhagwad Gita
           </motion.h2>
           <motion.p
             className="text-xl max-w-3xl mx-auto"
